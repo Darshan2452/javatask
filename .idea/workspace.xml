@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1613" />
-    <option name="height" value="876" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="960" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RunManager">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pack.HelloWorld" />
+    <configuration name="variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pack.variable" />
       <module name="javatask" />
       <extension name="coverage">
         <pattern>
@@ -28,7 +27,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.variable" />
       </list>
     </recent_temporary>
   </component>
