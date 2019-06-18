@@ -9,11 +9,11 @@ public class task1 {
   }
   public void display(int a,int...b){
       for(int i=0;i<b.length;i++) {
-          System.out.print(b[i]);
+          System.out.print(b[i]+"\t");
       }
   }
 }
- class overl extends task1{
+ class overl {
     public static void main(String[] args) {
         task1 t = new task1();
         t.display(4, 5);
