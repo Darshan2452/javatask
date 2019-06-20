@@ -2,6 +2,14 @@ package day2taskprograms;
 import java.util.*;
 import java.util.List;
 
+class desec implements Comparator<program15>{
+
+    @Override
+    public int compare(program15 o1, program15 o2) {
+        return Integer.compare(o2.id,o1.id);
+    }
+}
+
 class program15 implements Comparable<program15>{
     int id;
     String name;
@@ -62,8 +70,13 @@ class book77 {
        ArrayList<program15> list = new ArrayList<>(h);
         Collections.sort(list);
         for (program15 b : list) {
+           System.out.println(b.id + " " + b.name + " " + b.author + " " + b.publisher + " " + b.quantity);
+        }
+        Collections.sort(list,new desec());
+        for (program15 b : list) {
             System.out.println(b.id + " " + b.name + " " + b.author + " " + b.publisher + " " + b.quantity);
         }
+
 
     }
 }
