@@ -26,13 +26,17 @@ class book74 {
         map77.add(b17);
         map77.add(b18);
         map77.add(b18);
+        map77.add(b18);
+        map77.add(b18);
+
 
         for(program17 b:map77){
-            System.out.println(b);
+            System.out.println("\t"+b);
         }
         Set<program17> ns=new HashSet<>(map77);
+        System.out.println("\n");
         for(program17 b:ns){
-            System.out.println(b);
+            System.out.println("\t"+b);
         }
     }
 }

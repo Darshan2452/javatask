@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01185cb7-d89b-4395-8d04-987fbaf6d82a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day2taskprograms/program16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2taskprograms/program17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2taskprograms/setiterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day2taskprograms/program18.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javatask/day2taskprograms/book74.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javatask/day2taskprograms/book74.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2taskprograms/program17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2taskprograms/program17.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,18 +20,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/day2taskprograms/program11.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day2taskprograms/program12.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -117,8 +105,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day2taskprograms/program15.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="76" column="106" selection-start-line="76" selection-start-column="31" selection-end-line="76" selection-end-column="106" />
+            <state relative-caret-position="208">
+              <caret line="75" column="34" lean-forward="true" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#182#183#0" expanded="true" />
@@ -131,8 +119,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day2taskprograms/program16.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="68" column="12" selection-start-line="68" selection-start-column="12" selection-end-line="69" selection-end-column="38" />
+            <state relative-caret-position="264">
+              <caret line="73" column="5" lean-forward="true" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
               <folding>
                 <element signature="e#476#477#0" expanded="true" />
                 <element signature="e#509#510#0" expanded="true" />
@@ -162,11 +150,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/day2taskprograms/program17.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="32" column="47" lean-forward="true" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+            <state>
+              <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/day2taskprograms/program18.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="51" column="47" lean-forward="true" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="47" />
+              <folding>
+                <element signature="e#630#641#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -222,6 +222,7 @@
         <option value="$PROJECT_DIR$/src/day2taskprograms/setiterface.java" />
         <option value="$PROJECT_DIR$/src/day2taskprograms/program16.java" />
         <option value="$PROJECT_DIR$/src/day2taskprograms/program17.java" />
+        <option value="$PROJECT_DIR$/src/day2taskprograms/program18.java" />
       </list>
     </option>
   </component>
@@ -305,9 +306,35 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.book74">
-    <configuration name="book17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2taskprograms.book17" />
+  <component name="RunManager" selected="Application.SplitExample2">
+    <configuration name="ArrayList5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2taskprograms.ArrayList5" />
+      <module name="javatask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2taskprograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SplitExample2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2taskprograms.SplitExample2" />
+      <module name="javatask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day2taskprograms.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringTrimExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2taskprograms.StringTrimExample" />
       <module name="javatask" />
       <extension name="coverage">
         <pattern>
@@ -345,39 +372,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="program17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2taskprograms.program17" />
-      <module name="javatask" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day2taskprograms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="setiterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2taskprograms.setiterface" />
-      <module name="javatask" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day2taskprograms.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SplitExample2" />
+        <item itemvalue="Application.StringTrimExample" />
+        <item itemvalue="Application.ArrayList5" />
         <item itemvalue="Application.book74" />
         <item itemvalue="Application.book4" />
-        <item itemvalue="Application.program17" />
-        <item itemvalue="Application.book17" />
-        <item itemvalue="Application.setiterface" />
       </list>
     </recent_temporary>
   </component>
@@ -391,12 +392,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560837539590</updated>
-      <workItem from="1560837542157" duration="67616000" />
+      <workItem from="1560837542157" duration="70171000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67616000" />
+    <option name="totallyTimeSpent" value="70171000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -801,18 +802,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2taskprograms/program15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="76" column="106" selection-start-line="76" selection-start-column="31" selection-end-line="76" selection-end-column="106" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#182#183#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/day2taskprograms/program14.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6">
@@ -823,10 +812,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2taskprograms/program17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="26" column="23" lean-forward="true" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/day2taskprograms/program16.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="68" column="12" selection-start-line="68" selection-start-column="12" selection-end-line="69" selection-end-column="38" />
+        <state relative-caret-position="264">
+          <caret line="73" column="5" lean-forward="true" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
           <folding>
             <element signature="e#476#477#0" expanded="true" />
             <element signature="e#509#510#0" expanded="true" />
@@ -855,10 +851,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/day2taskprograms/program17.java">
+    <entry file="file://$PROJECT_DIR$/src/day2taskprograms/program15.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="32" column="47" lean-forward="true" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
+        <state relative-caret-position="208">
+          <caret line="75" column="34" lean-forward="true" selection-start-line="75" selection-start-column="34" selection-end-line="75" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/day2taskprograms/program18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="51" column="47" lean-forward="true" selection-start-line="51" selection-start-column="47" selection-end-line="51" selection-end-column="47" />
+          <folding>
+            <element signature="e#630#641#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
